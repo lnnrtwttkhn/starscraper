@@ -2,9 +2,10 @@
 
 This repo contains code to scrape information about free car rentals from [starcar.de](https://www.starcar.de/specials/kostenlos-mieten/) and send automated notifications if specific offers become available.
 
-## Overview
-
 ## Requirements
+
+Please install all the packages listed in the `requirements.txt` file.
+This can be done using `pip install -r requirements.txt`.
 
 ## Authors
 
