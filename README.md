@@ -5,6 +5,7 @@ This repo contains code to scrape information about free car rentals from [starc
 ## Requirements
 
 Please install all the packages listed in the `requirements.txt` file.
+
 This can be done using `pip install -r requirements.txt`.
 
 ## Authors
